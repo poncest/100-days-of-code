@@ -8,3 +8,4 @@ This is part of Alexander Kallaway's #100DaysOfCode challenge.  The official web
 - Code minimum an hour every day for the next 100 days.
 - Tweet your progress every day with the #100DaysOfCode hashtag.
 
+[Round 1 Log](R1.md)
